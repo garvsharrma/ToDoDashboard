@@ -19,7 +19,7 @@
     "nodemon": "^2.0.4"
   },
   "engines": {
-    "node": "18.x"
+    "node": "18.20.8"
   },
   "license": "MIT"
 }
